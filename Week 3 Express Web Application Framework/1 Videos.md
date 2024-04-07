@@ -14,3 +14,7 @@ https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/l
 ## Routing, Middleware, and Templating
 
 https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/lecture/Dufbu/routing-middleware-and-templating
+
+## Authentication in Node JS
+
+https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/lecture/7SDmH/authentication-in-node-js
