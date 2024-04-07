@@ -1,0 +1,1 @@
+You can only await a promise inside an async method. This is because await blocks the thread. This will defeat the primary purpose. So the function within which an await is used HAS TO BE async.
